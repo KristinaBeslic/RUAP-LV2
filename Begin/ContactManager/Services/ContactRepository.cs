@@ -15,12 +15,12 @@ namespace ContactManager.Services
             new Contact
             {
                 Id = 1,
-                Name = "Glenn Block"
+                Name = "Jon Snow"
             },
             new Contact
             {
                 Id = 2,
-                Name = "Dan Roth"
+                Name = "Arya Stark"
             }
             };
         }
