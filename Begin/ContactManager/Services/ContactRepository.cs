@@ -71,7 +71,6 @@ namespace ContactManager.Services
                     return false;
                 }
             }
-
             return false;
         }
     }
